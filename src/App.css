@@ -1,0 +1,9 @@
+.margin-large {
+  margin: 0px 50px;
+}
+
+@media (max-width: 767px) {
+  .margin-large {
+    margin: 0px 10px;
+  }
+}
